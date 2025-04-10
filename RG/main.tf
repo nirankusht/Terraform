@@ -17,3 +17,6 @@ resource "azurerm_resource_group" "testrg"{
 name = "RG001"
 location = "Central India"
 }
+
+
+# just adding a comment
